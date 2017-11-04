@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "Awalz/SwiftyCam" "2.6.0"
+github "JonasGessner/JGProgressHUD" "v1.4.1"
+github "ankurp/Dollar" "9ac6f653d5c8b17f9e393757fdca66b3c69206f7"
+github "mikker/Stellar" "fd9ad16087f814e95f5eaf31eae036d43968bc58"
