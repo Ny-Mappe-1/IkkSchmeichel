@@ -1,6 +1,6 @@
 # IkkSchmeichel
 
-<img src='https://s3.brnbw.com/2017-11-04-13_59_09-LV6Bcynjs1.gif' />
+<img src='/preview.gif?raw=true' alt='preview' />
 
 [**IkkSchmeichel**](https://computers.mikkelmalmberg.com/issues/35) is an app that tells you if the person you just took a photo of is in fact the legendary Danish goal keeper Peter Schmeichel.
 
